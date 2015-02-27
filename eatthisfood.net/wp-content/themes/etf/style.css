@@ -1,0 +1,133 @@
+/*
+Theme Name: Eat This Food
+Theme URI: http://eatthisfood.com.au/
+Author: Stuart Campbell
+Author URI: http://harto.org/
+Description: The WordPress theme for eatthisfood.com.au
+Version: 1.0
+*/
+body {
+  margin: 0;
+  padding: 0;
+}
+p {
+  margin: 1em 0;
+}
+.page #wrapper {
+  width: 700px;
+  margin: 0 auto;
+}
+#wrapper {
+  padding: 30px 0 60px;
+  background: white;
+  color: black;
+  font-size: 0.8em;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+#wrapper .a11y {
+  display: none;
+}
+#wrapper > header {
+  font-size: 0.9em;
+  margin-bottom: 40px;
+}
+#wrapper > header h1 {
+  margin: 0;
+}
+#wrapper > header h1 a {
+  display: block;
+  width: 250px;
+  height: 34px;
+  background: url('images/banner.png') left top no-repeat;
+  margin: 0 auto;
+  text-decoration: none;
+  overflow: hidden;
+}
+#wrapper > header h1 a * {
+  visibility: hidden;
+}
+#wrapper > header ul {
+  margin: 10px 0 0;
+  padding: 0;
+  list-style: none;
+}
+#wrapper > header li {
+  display: inline;
+  margin: 0 0.4em;
+  padding: 0;
+}
+#wrapper a {
+  color: black;
+}
+#wrapper a img {
+  border: 0;
+}
+#wrapper .etf-alternate-font {
+  font-family: Futura, "Tw Cen MT", "Century Gothic", sans-serif;
+  font-size: 1.25em;
+}
+#wrapper article.post > footer > * {
+  margin: 4em auto 0;
+}
+#wrapper article.post > footer .fb-like {
+  margin-left: 10px;
+}
+#wrapper article.post > footer #print {
+  width: 646px;
+  height: 32px;
+  background: url('images/print.png') left top no-repeat;
+  font-family: Futura, 'Tw Cen MT', 'Century Gothic', sans-serif;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+#wrapper article.post > footer #print a {
+  display: inline-block;
+  margin-top: 6px;
+  background: white;
+  padding: 1px 2px 0;
+}
+#wrapper article.post > footer #print a span {
+  display: table-cell;
+  vertical-align: middle;
+}
+#wrapper article.post > footer nav a {
+  margin: 0 0.4em;
+}
+.archive #content ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.archive #content ul li {
+  margin: 0 0 40px;
+  padding: 0;
+}
+@media screen and (max-width: 30em) {
+  #wrapper {
+    margin: 0 1em !important;
+    width: auto !important;
+    line-height: 1.5;
+  }
+  #wrapper > header {
+    margin-bottom: 2em !important;
+  }
+  #wrapper article.post br {
+    display: none;
+  }
+  #wrapper article.post footer nav a {
+    display: block;
+    padding: 0.5em;
+    background: #EEE;
+    margin: 1em 0 !important;
+    text-decoration: none;
+    box-shadow: 3px 3px 0 #999;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  #print {
+    display: none;
+  }
+}
