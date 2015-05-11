@@ -39,7 +39,7 @@ p {
   display: block;
   width: 250px;
   height: 34px;
-  background: url('images/banner.png') left top no-repeat;
+  background: url('/wp-content/themes/etf/images/banner.png') left top no-repeat;
   margin: 0 auto;
   text-decoration: none;
   overflow: hidden;
@@ -76,7 +76,7 @@ p {
 #wrapper article.post > footer #print {
   width: 646px;
   height: 32px;
-  background: url('images/print.png') left top no-repeat;
+  background: url('/wp-content/themes/etf/images/print.png') left top no-repeat;
   font-family: Futura, 'Tw Cen MT', 'Century Gothic', sans-serif;
   text-transform: uppercase;
   vertical-align: middle;

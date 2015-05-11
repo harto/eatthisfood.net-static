@@ -1,43 +1,43 @@
-HTTrack3.48-19 launched on Fri, 27 Feb 2015 12:36:29 at eatthisfood.net/
-(httrack eatthisfood.net/ )
+HTTrack3.48-21 launched on Sun, 10 May 2015 17:30:44 at eatthisfood.net/
+(httrack -K3 eatthisfood.net/ )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-12:36:29	Warning: 	Note: due to eatthisfood.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /wp-includes/ (see in the options to disable this)
-12:36:42	Error: 	"Not Found" (404) at link eatthisfood.net/comments/feed (from eatthisfood.net/)
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=522
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=522 to http://eatthisfood.net/baked_eggs
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=481
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=481 to http://eatthisfood.net/birthday-cake
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=497
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=497 to http://eatthisfood.net/christmas-pie
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=392
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=392 to http://eatthisfood.net/corned-beef
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=371
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=371 to http://eatthisfood.net/pumpkin-pie
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=337
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=337 to http://eatthisfood.net/pancakes
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=306
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=306 to http://eatthisfood.net/tofu
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=283
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=283 to http://eatthisfood.net/wagyu-pies
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=18
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=18 to http://eatthisfood.net/beef-short-ribs
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=264
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=264 to http://eatthisfood.net/pastel-de-nata
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=234
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=234 to http://eatthisfood.net/sardines
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=61
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=61 to http://eatthisfood.net/tomato-confit
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=110
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=110 to http://eatthisfood.net/tarts
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=82
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=82 to http://eatthisfood.net/dumplings
-12:43:17	Warning: 	Moved Permanently for eatthisfood.net/?p=146
-12:43:17	Warning: 	File has moved from eatthisfood.net/?p=146 to http://eatthisfood.net/lamb
+17:30:45	Warning: 	Note: due to eatthisfood.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /wp-includes/ (see in the options to disable this)
+17:30:46	Error: 	"Not Found" (404) at link eatthisfood.net/comments/feed (from eatthisfood.net/)
+17:30:57	Warning: 	Moved Permanently for eatthisfood.net/?p=522
+17:30:57	Warning: 	File has moved from eatthisfood.net/?p=522 to http://eatthisfood.net/baked_eggs
+17:30:57	Warning: 	Moved Permanently for eatthisfood.net/?p=481
+17:30:57	Warning: 	File has moved from eatthisfood.net/?p=481 to http://eatthisfood.net/birthday-cake
+17:30:58	Warning: 	Moved Permanently for eatthisfood.net/?p=497
+17:30:58	Warning: 	File has moved from eatthisfood.net/?p=497 to http://eatthisfood.net/christmas-pie
+17:30:58	Warning: 	Moved Permanently for eatthisfood.net/?p=392
+17:30:58	Warning: 	File has moved from eatthisfood.net/?p=392 to http://eatthisfood.net/corned-beef
+17:30:59	Warning: 	Moved Permanently for eatthisfood.net/?p=371
+17:30:59	Warning: 	File has moved from eatthisfood.net/?p=371 to http://eatthisfood.net/pumpkin-pie
+17:31:00	Warning: 	Moved Permanently for eatthisfood.net/?p=337
+17:31:00	Warning: 	File has moved from eatthisfood.net/?p=337 to http://eatthisfood.net/pancakes
+17:31:01	Warning: 	Moved Permanently for eatthisfood.net/?p=306
+17:31:01	Warning: 	File has moved from eatthisfood.net/?p=306 to http://eatthisfood.net/tofu
+17:31:02	Warning: 	Moved Permanently for eatthisfood.net/?p=283
+17:31:02	Warning: 	File has moved from eatthisfood.net/?p=283 to http://eatthisfood.net/wagyu-pies
+17:31:03	Warning: 	Moved Permanently for eatthisfood.net/?p=18
+17:31:03	Warning: 	File has moved from eatthisfood.net/?p=18 to http://eatthisfood.net/beef-short-ribs
+17:31:04	Warning: 	Moved Permanently for eatthisfood.net/?p=264
+17:31:04	Warning: 	File has moved from eatthisfood.net/?p=264 to http://eatthisfood.net/pastel-de-nata
+17:31:04	Warning: 	Moved Permanently for eatthisfood.net/?p=234
+17:31:04	Warning: 	File has moved from eatthisfood.net/?p=234 to http://eatthisfood.net/sardines
+17:31:05	Warning: 	Moved Permanently for eatthisfood.net/?p=61
+17:31:05	Warning: 	File has moved from eatthisfood.net/?p=61 to http://eatthisfood.net/tomato-confit
+17:31:06	Warning: 	Moved Permanently for eatthisfood.net/?p=110
+17:31:06	Warning: 	File has moved from eatthisfood.net/?p=110 to http://eatthisfood.net/tarts
+17:31:07	Warning: 	Moved Permanently for eatthisfood.net/?p=82
+17:31:07	Warning: 	File has moved from eatthisfood.net/?p=82 to http://eatthisfood.net/dumplings
+17:31:08	Warning: 	Moved Permanently for eatthisfood.net/?p=146
+17:31:08	Warning: 	File has moved from eatthisfood.net/?p=146 to http://eatthisfood.net/lamb
 
-HTTrack Website Copier/3.48-19 mirror complete in 7 minutes 11 seconds : 130 links scanned, 113 files written (10697941 bytes overall) [10633139 bytes received at 24670 bytes/sec], 156623 bytes transferred using HTTP compression in 19 files, ratio 37%, 4.1 requests per connection
+HTTrack Website Copier/3.48-21 mirror complete in 25 seconds : 130 links scanned, 113 files written (10697941 bytes overall), 21 files updated [86719 bytes received at 3468 bytes/sec], 156623 bytes transferred using HTTP compression in 19 files, ratio 37%, 32.5 requests per connection
 (1 errors, 31 warnings, 0 messages)
